@@ -1,6 +1,6 @@
-# Program     : set_24060124130055.py
+# Program     : setFunctions.py
 # Deskripsi   : Fungsi-fungsi untuk operasi set.
-# NIM/Nama    : 24060124130055/Daffa Maulana Alfianto
+# NIM/Nama    : Daffa Maulana Alfianto
 # Tanggal     : Rabu, 06 November 2024
 # ================================================================================================================
 # DEFINISI DAN SPESIFIKASI TYPE HIMPUNAN 
